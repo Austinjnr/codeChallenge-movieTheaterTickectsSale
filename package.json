@@ -1,0 +1,23 @@
+{
+  "name": "codechallenge-movietheatertickectssale",
+  "version": "1.0.0",
+  "description": "Flatdango Code Challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Austinjnr/codeChallenge-movieTheaterTickectsSale.git"
+  },
+  "keywords": [
+    "DOM",
+    "Fetch"
+  ],
+  "author": "Austin Obonyo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Austinjnr/codeChallenge-movieTheaterTickectsSale/issues"
+  },
+  "homepage": "https://github.com/Austinjnr/codeChallenge-movieTheaterTickectsSale#readme"
+}
