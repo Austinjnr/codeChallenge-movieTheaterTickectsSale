@@ -4,7 +4,9 @@
   "description": "Flatdango Code Challenge",
   "main": "index.js",
   "scripts": {
-    "test": "npm test"
+    "test": "npm test",
+    "start": "node index.js",
+    "server": "light-server -s . -p 3000 -x http://localhost:3000/films"
   },
   "repository": {
     "type": "git",
@@ -19,5 +21,9 @@
   "bugs": {
     "url": "https://github.com/Austinjnr/codeChallenge-movieTheaterTickectsSale/issues"
   },
-  "homepage": "https://github.com/Austinjnr/codeChallenge-movieTheaterTickectsSale#readme"
+  "homepage": "https://github.com/Austinjnr/codeChallenge-movieTheaterTickectsSale#readme",
+  "dependencies": {
+    "json-server": "^0.17.1",
+    "light-server": "^2.9.1"
+  }
 }
