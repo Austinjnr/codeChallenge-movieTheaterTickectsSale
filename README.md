@@ -1,7 +1,7 @@
 # codeChallenge-movieTheaterTickectsSale
 
 # Description
-This is a code challenge for Flatdango, that allows a user to purchase movie tickets from the theater.
+This is a code challenge for Flatdango, that allows a user to purchase movie tickets from the theater web app.
 Access my web page via this <a href ="https://austinjnr.github.io/codeChallenge-movieTheaterTickectsSale/">link.</a>
 
 # Built with 
