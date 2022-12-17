@@ -13,6 +13,8 @@ This application was built with the following technologies:
 
 - JavaScript
 
+- Bootstrap
+
 # Getting Started
 
 In order for one to use the content on this repo ensure you have the following:
